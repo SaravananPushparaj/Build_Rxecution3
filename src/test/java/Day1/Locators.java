@@ -10,6 +10,7 @@ public class Locators {
 	{
 		
 		System.out.println("Hello world");
+		System.out.println("Welcome");
 		
 		
 	}
